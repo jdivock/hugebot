@@ -1,6 +1,7 @@
 [
   "hubot-business-cat",
   "hubot-diagnostics",
+  "hubot-flip",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-help",
